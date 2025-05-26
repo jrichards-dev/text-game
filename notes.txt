@@ -1,0 +1,31 @@
+Character Class:
+	Member Variables
+		string	Name
+		int	Level
+		int	Min/Max Health
+		int	Attack
+		int	Defense
+		int	Gold
+		object	Inventory
+
+Equipment Class
+	Member Variables:
+		type
+		name
+		defense
+
+	Helm
+	Chest
+	Legs
+	Feet
+	Shield
+		
+Weapon Class(Child of Equipment)
+	Member varibles:
+		type
+		name
+		attack
+	Sword
+	Axe
+	Mace
+	Bow			
